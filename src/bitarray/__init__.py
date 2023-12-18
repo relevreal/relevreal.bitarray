@@ -1,3 +1,3 @@
 # read version from installed package
 from importlib.metadata import version
-__version__ = version("relevreal.bitarray")
+__version__ = version("bitarray")
